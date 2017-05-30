@@ -2,7 +2,7 @@ html, body {
   margin: 10px;
   padding: 20px;
   width: 100%;
-  font-weight: bold;	
+  	
 }
 body{
   background-image: url("http://www.walldevil.com/wallpapers/a77/background-wallpapers-color-abstract.jpg");
@@ -20,6 +20,7 @@ body{
 	text-align:center;
 	font-family: c;
 	color: #003333;
+	font-weight: bold;
 }
 .header li{
   padding-top: 20px;
@@ -27,6 +28,7 @@ body{
   color: #003333;
   font-size: 20px;
   text-transform: uppercase;
+	font-weight: bold;
   
 }
 .header li a{

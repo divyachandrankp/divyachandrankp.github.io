@@ -2,10 +2,10 @@ html, body {
   margin: 10px;
   padding: 20px;
   width: 100%;
+  font-weight: bold;	
 }
 body{
   background-image: url("http://www.walldevil.com/wallpapers/a77/background-wallpapers-color-abstract.jpg");
-  background-repeat: no-repeat;
   background-position: cover;
 }
 /*.header .container{

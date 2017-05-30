@@ -4,32 +4,33 @@ html, body {
   width: 100%;
 }
 body{
-  background-image: url("https://cdn.shutterstock.com/shutterstock/videos/19761190/thumb/1.jpg");
-  
+  background-image: url("http://www.walldevil.com/wallpapers/a77/background-wallpapers-color-abstract.jpg");
+  background-repeat: no-repeat;
   background-position: cover;
 }
-.header .container{
+/*.header .container{
 
- border-left: 6px solid #ffffff;
- background-color: #577566;
+ border-left: 6px solid #003333;
+ background-color: #009999;
 
-}
+}*/
 
 
 .header h1{
 	text-align:center;
 	font-family: c;
-	color: #ffffff;
+	color: #003333;
 }
 .header li{
   padding-top: 20px;
   display:inline-block;
-  color: #ffffff;
+  color: #003333;
   font-size: 20px;
+  text-transform: uppercase;
   
 }
 .header li a{
-	color: #ffffff;
+	color: #003333;
 }
 
 .main{
@@ -39,7 +40,7 @@ body{
   margin-bottom: 30px; 
 }
 .main li{
-color: #ffffff;	
+color: #003333;	
 }
 
 
@@ -49,26 +50,20 @@ color: #ffffff;
 
 }
 .thumbnail{
-	border: 5px solid #577566;
+	border: 5px solid #009999;
 	display: block;
-	background-color: #577566;
-	color: #ffffff;
+	background-color: #009999;
+	color: #003333;
 	
 }
 
-.footer ul{
+.footer p{
  
-  list-style-type: none;
-  
+  font-size: 20px;
+  color: #003333;
 }
-.footer li{
-   display:inline;
-   
-}
-.footer img{
-	width:80px;
-	height:80px;
+.
 }
 .contact{
-	color: #ffffff;
+	color: #003333;
 }
